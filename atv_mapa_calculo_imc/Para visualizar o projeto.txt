@@ -1,0 +1,6 @@
+Para visualizar o projeto
+
+Salvar a pasta Projeto IMC e acessar o arquivo imc.html
+
+Ao abrir no navegador será possível preencher os campos solicitados, o programa irá calcular o IMC e retornar ao usuário a informação correspondente. 
+

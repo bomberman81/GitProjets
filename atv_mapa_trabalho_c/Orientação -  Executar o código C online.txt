@@ -1,0 +1,13 @@
+Executar o código C online para visualizar o programa funcionando: 
+
+https://www.onlinegdb.com/online_c_compiler 
+
+O PDF Atividade MAPA - ALP II contém o projeto proposto, o arquivo Descrição Atividade Mapa e Cálculos apresenta a lógica utilizada para desenvolver o programa.
+
+Há uma planilha auxiliar, que utilizei antes de codificar, onde realizei testes no Excel para obter os cálculos necessários. Em seguida utilizei meus conhecimentos
+em C para codificar. 
+
+Por fim, há o PDF com o retorno do professor, com a nota máxima alcançada, por ter tido êxito na execução do trabalho. 
+
+O arquivo atv_mapa.cpp contém o código fonte e pode ser visualizado em alguma IDE. O mesmo pode ser copiado para o link acima, para fins de testes. 
+
