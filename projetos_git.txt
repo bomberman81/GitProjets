@@ -1,0 +1,6 @@
+Pasta para salvar projetos pessoais no Git
+
+Projetos atuais:
+- Trabalho usando a linguagem C. 
+- Cálculo de IMC, usando a linguagem JavaScript.
+
